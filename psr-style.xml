@@ -32,9 +32,9 @@
 <setting id="com.zend.php.formatter.core.formatter.alignment_for_superinterfaces_in_type_declaration_force_split" value="false"/>
 <setting id="com.zend.php.formatter.core.formatter.alignment_for_superinterfaces_in_type_declaration_indent_policy" value="0"/>
 <setting id="com.zend.php.formatter.core.formatter.alignment_for_superinterfaces_in_type_declaration_line_wrap_policy" value="0"/>
-<setting id="com.zend.php.formatter.core.formatter.blank_lines_before_field" value="1"/>
+<setting id="com.zend.php.formatter.core.formatter.blank_lines_before_field" value="0"/>
 <setting id="com.zend.php.formatter.core.formatter.blank_lines_before_member_type" value="0"/>
-<setting id="com.zend.php.formatter.core.formatter.blank_lines_before_method" value="0"/>
+<setting id="com.zend.php.formatter.core.formatter.blank_lines_before_method" value="1"/>
 <setting id="com.zend.php.formatter.core.formatter.blank_lines_between_type_declarations" value="0"/>
 <setting id="com.zend.php.formatter.core.formatter.brace_position_for_block" value="0"/>
 <setting id="com.zend.php.formatter.core.formatter.brace_position_for_method_declaration" value="1"/>
